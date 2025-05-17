@@ -40,3 +40,6 @@ Thumbs.db
 # Optional: ignore backend-specific folders
 server/node_modules/
 client/node_modules/
+
+#images
+uploads/
