@@ -40,3 +40,9 @@ Thumbs.db
 # Optional: ignore backend-specific folders
 server/node_modules/
 client/node_modules/
+
+#images
+uploads/
+
+# Firebase Admin SDK
+/server/config/serviceAccountKey.json
